@@ -1,0 +1,184 @@
+{
+    "contraCheque": [
+        {
+            "idContraCheque": "mpdft/01/2020/1",
+            "chaveColeta": "mpdft/01/2020",
+            "nome": "ANDRÉ LUIZ CAPPI PEREIRA ",
+            "matricula": "10092",
+            "funcao": " PROMOTOR DE JUSTIÇA",
+            "localTrabalho": "Procuradoria-Geral de Justiça do Ministério Público do Distrito Federal e Territórios",
+            "ativo": true,
+            "remuneracoes": {
+                "remuneracao": [
+                    {
+                        "categoria": "contracheque",
+                        "item": "Remuneração do Cargo Efetivo",
+                        "valor": 33689.11
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Outras Verbas Remuneratórias, Legais ou Judiciais",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Função de Confiança ou Cargo em Comissão",
+                        "valor": 3225.42,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Gratificação Natalina",
+                        "valor": 19343.81,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Férias (1/3 constitucional)",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "contracheque",
+                        "item": "Abono de Permanência",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Contribuição Previdenciária",
+                        "valor": -671.11
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Imposto de Renda",
+                        "valor": -8771.33
+                    },
+                    {
+                        "natureza": "D",
+                        "categoria": "contracheque",
+                        "item": "Retenção por Teto Constitucional"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Abono Pecuniário",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio pré-escolar",
+                        "valor": 719.62,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Ajuda de Custo",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio natalidade",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio alimentação",
+                        "valor": 910.08,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio transporte",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Férias indenizada",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Banco de horas indenizado",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Auxílio moradia",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "indenizacoes",
+                        "item": "Licença prêmio pecúnia",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Substituição de Membros",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Função de Substituição",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Gratificação por Encargo de Curso",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Adicional de Insalubridade",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Gratificação por Encargo de Concurso",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Periculosidade",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Gratificação de Exercício Cumulativo com Ofício Sem Psss",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Gratificação Exercício Cumulativo com Ofício Com Psss",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Membros Substituição",
+                        "valor": 1773.11,
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Hora Extra Sem Psss",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Adicional Noturno Sem Psss",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Substituição Membros MS2013",
+                        "tipoReceita": "O"
+                    },
+                    {
+                        "categoria": "temporarias",
+                        "item": "Adicional Penosidade",
+                        "tipoReceita": "O"
+                    }
+                ]
+            }
+        }
+    ]
+}
