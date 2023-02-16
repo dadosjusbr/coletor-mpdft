@@ -1,4 +1,4 @@
-numpy==1.20.2
+numpy==1.24.2
 pandas==1.2.3
 protoDadosjusbr>=0.6
 protobuf==3.18.0
