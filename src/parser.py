@@ -16,14 +16,16 @@ def parse_employees(fn, chave_coleta, categoria, year):
         name = row[1]
         matricula = row[0]
         if not number.is_nan(name) and not number.is_nan(matricula) and matricula != "Matrícula" and str(year) not in name:
-            name, function = name.split("/")
+            name, function = name.split(" / ")
             membro = Coleta.ContraCheque()
             membro.id_contra_cheque = chave_coleta + "/" + str(counter)
             membro.chave_coleta = chave_coleta
             membro.nome = name
             membro.matricula = matricula
             membro.funcao = function
-            membro.local_trabalho = str(row[2])
+            # Nem todos os membros possuem lotação
+            if not number.is_nan(row[2]):
+                membro.local_trabalho = str(row[2])
             membro.tipo = Coleta.ContraCheque.Tipo.Value("MEMBRO")
             membro.ativo = True
             
