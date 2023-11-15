@@ -3,9 +3,9 @@
         {
             "idContraCheque": "mpdft/01/2020/1",
             "chaveColeta": "mpdft/01/2020",
-            "nome": "ANDRÉ LUIZ CAPPI PEREIRA ",
+            "nome": "ANDRÉ LUIZ CAPPI PEREIRA",
             "matricula": "10092",
-            "funcao": " PROMOTOR DE JUSTIÇA",
+            "funcao": "PROMOTOR DE JUSTIÇA",
             "localTrabalho": "Procuradoria-Geral de Justiça do Ministério Público do Distrito Federal e Territórios",
             "ativo": true,
             "remuneracoes": {
